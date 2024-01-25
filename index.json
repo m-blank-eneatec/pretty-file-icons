@@ -15,7 +15,7 @@
   ".tiff": "tiff",
   ".tif": "tiff",
   ".heif": "heif",
-  ".heic": "heic",
+  ".heic": "heif",
   ".webp": "webp",
   ".svg": "svg",
   ".psd": "psd",
