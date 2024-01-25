@@ -32,6 +32,10 @@
     {
       "name": "Levko Kravets",
       "email": "levko.ne@gmail.com"
+    },
+    {
+      "name": "Marcel Blank",
+      "email": "153595419+m-blank-eneatec@users.noreply.github.com"
     }
   ],
   "devDependencies": {
