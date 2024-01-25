@@ -6,8 +6,7 @@ Icon pack author: [Madebyoliver](http://www.flaticon.com/authors/madebyoliver).
 Icons are published as-is and under the licence by [flaticon.com](http://flaticon.com).
 Licence for everything except icons is MIT.
 
-See [index.json](index.json) for available icons list. Live preview is
-available [here](https://kravets-levko.github.io/pretty-file-icons/preview.html).
+See [index.json](index.json) for available icons list.
  
 ## Usage
  

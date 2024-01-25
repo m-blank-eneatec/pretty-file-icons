@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kravets-levko/pretty-file-icons.git"
+    "url": "git+https://github.com/m-blank-eneatec/pretty-file-icons.git"
   },
   "keywords": [
     "file extensions",
@@ -26,7 +26,7 @@
   "author": "Unknown",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kravets-levko/pretty-file-icons/issues"
+    "url": "https://github.com/m-blank-eneatec/pretty-file-icons/issues"
   },
   "contributors": [
     {
